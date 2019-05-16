@@ -40,7 +40,7 @@ li > a:hover{
 }
 
 .container {
-  width: 750px;
+  max-width: 750px;
   margin: 20px auto;
 }
 
